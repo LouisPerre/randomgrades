@@ -1,0 +1,19 @@
+{
+  "name": "randomgrades",
+  "version": "1.0.0",
+  "description": "Give it a csv file, min, max and it will generate random grades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisPerre/randomgrades.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LouisPerre/randomgrades/issues"
+  },
+  "homepage": "https://github.com/LouisPerre/randomgrades#readme"
+}
