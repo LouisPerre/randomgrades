@@ -1,7 +1,7 @@
-const lib = require('./index');
+const lib = require('../index');
 
 test('The function addRandomGradeToCSV should return a string', () => {
-    const result = lib.addRandomGradeToCSV('./files/students.csv', 0, 20)
+    const result = lib.addRandomGradeToCSV('./test/students.csv', 0, 20)
     expect(typeof result).toBe('string');
     expect(result).toBe('The file has been saved');
 })

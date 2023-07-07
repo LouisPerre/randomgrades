@@ -1,6 +1,6 @@
 {
   "name": "randomgrades",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Give it a csv file, min, max and it will generate random grades",
   "main": "index.js",
   "scripts": {
