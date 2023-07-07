@@ -1,10 +1,10 @@
 {
   "name": "randomgrades",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Give it a csv file, min, max and it will generate random grades",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/LouisPerre/randomgrades/issues"
   },
-  "homepage": "https://github.com/LouisPerre/randomgrades#readme"
+  "homepage": "https://github.com/LouisPerre/randomgrades#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+  }
 }
